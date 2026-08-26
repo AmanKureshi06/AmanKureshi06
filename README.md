@@ -34,6 +34,13 @@ Currently building AI-native and security-focused products. Open to collaboratio
 - Improved UI responsiveness and application performance  
 - Built cross-device compatible frontend components  
 
+**AI for Sustainability Virtual Internship — 1M1B**  
+*May 2026 — June 2026*
+
+- Gained hands-on experience in AI, responsible AI practices, and sustainability aligned with UN SDGs
+- Developed practical solutions using Agentic AI and RAG systems
+- Applied strong problem-solving skills to real-world, impact-driven challenges
+
 ---
 
 ### Skills
